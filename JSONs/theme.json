@@ -1,0 +1,21 @@
+{
+  "palettes": {
+    "primary": {
+      "dark": "#000000",
+      "skoiyblue": "#0047bb",
+      "headerblue": "#2156C9",
+      "white": "#ffffff"
+    },
+    "secondary": {
+      "background": "#fcffbe"
+    }
+  },
+  "styles": {
+    "title": {
+      "fontSize": 15
+    },
+    "subtitle": {
+      "fontSize": 11
+    }
+  }
+}
